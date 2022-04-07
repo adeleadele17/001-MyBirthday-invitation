@@ -1,6 +1,21 @@
 body{
-    background-color: #d9bdff
+    background-image: url(background_2.jpg);
+    background-attachment: fixed;
+    text-align: center;
+    background-size: cover;
+    font-size: 30px;
 }
 .present{
     width: 500px;
+}
+
+.title2 {
+text-align: center;
+}
+
+.title {
+}
+
+.Navbar{
+    font-size: 30px;
 }
